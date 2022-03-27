@@ -9,4 +9,4 @@ Using the documentation on cppreference and cplusplus.com, a scope of work was d
 
 ## Vizualization
 
-  <img src="./screen/container.jpeg" width="600" alt="container">
+  <img src="./screen/container.jpg" width="600" alt="container">
